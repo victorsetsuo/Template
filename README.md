@@ -1,7 +1,7 @@
 # Template
 ---
 ##### - Links
-- [Dillinger](dillinger.io)
+- [Dillinger.io](dillinger.io)
 
 ---
 ######End
